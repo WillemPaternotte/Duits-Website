@@ -1,6 +1,6 @@
 [
     {
-        "h1": "Header",
+        "h1": "Hoer",
         "h2": "Subheader",
         "p": "tekst"
     },
@@ -8,5 +8,15 @@
         "h1": "Header",
         "h2": "Subheader",
         "p": "tekst"
+    },
+    {
+        "h1": "Heaooer",
+        "h2": "Subheader",
+        "p": "tekst"
+    },
+    {   
+        "h1": "Header",
+        "h2": "Subheader",
+        "p": "telolololst"
     }
 ]

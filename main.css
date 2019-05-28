@@ -157,7 +157,7 @@ img {
 }
 
 #articleContainer {
-    columns: 3;
+    columns: 2;
 }
 
 .article {
@@ -165,6 +165,7 @@ img {
     overflow: hidden;
     border-radius: 8px;
     padding: 5px;
+    margin-bottom: 5px;
 }
 
 h1.articleElement {
