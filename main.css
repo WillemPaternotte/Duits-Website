@@ -8,7 +8,6 @@ html {
     background-repeat: no-repeat;
     background-attachment: fixed;
 }
-
 ul {
     list-style-type: none;
     margin: 0;
@@ -21,7 +20,7 @@ ul {
 li {
     text-align: center;
     display: inline;
-
+   
 }
 
 li a {
@@ -38,7 +37,6 @@ li a {
 li a:hover {
     background-color: #fff;
 }
-
 article {
     background: rgba(255, 255, 255, 0.69);
     box-shadow: 0 0 2px rgba(1, 1, 1, 0.06);
@@ -49,14 +47,13 @@ article {
     border-radius: 10px;
     max-width: 1000px;
     text-align: center;
-    vertical-align: text-top;
+    vertical-align:text-top;
     margin-left: auto;
     margin-right: auto;
     margin-top: 100px;
     background-blend-mode: normal;
-
+    
 }
-
 header {
     z-index: 99999;
     background: solid;
@@ -75,6 +72,7 @@ header {
     text-align: center;
     position: fixed;
     object-position: center;
+}
 }
 
 h1,
@@ -114,11 +112,11 @@ h2 {
     text-align: center;
     right: 450px;
     margin-top: auto;
-    left: 10px;
+    left: 50px;
     color: #000;
-
-
-
+    margin-left: 0px;
+         
+    
 }
 
 a {
@@ -135,13 +133,15 @@ samp {
 }
 
 img {
-    animation: colorize 2s cubic-bezier(0, 0, .78, .36) 1;
+    animation: colorize 0.5s cubic-bezier(0, 0, .78, .36) 1;
     background: transparent;
-    border: px solid rgba(0, 0, 0, 0.12);
+    
     border-radius: 20px;
     display: block;
     margin: 1.3em auto;
     max-width: 95%;
+    position:relative;
+    margin-right:50px;
 }
 
 @keyframes colorize {
