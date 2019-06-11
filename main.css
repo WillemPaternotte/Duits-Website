@@ -50,7 +50,7 @@ article {
     vertical-align:text-top;
     margin-left: auto;
     margin-right: auto;
-    margin-top: 100px;
+    margin-top: 50px;
     background-blend-mode: normal;
     
 }
@@ -89,8 +89,8 @@ h6 {
 h1 {
     position: relative;
     text-align: center;
-    font: "";
-}
+    color: black;
+    }
 
 h3 {
     font-weight: 600;
@@ -120,7 +120,7 @@ h2 {
 }
 
 a {
-    color: #0083e8;
+    color: #000;
 }
 
 b,
